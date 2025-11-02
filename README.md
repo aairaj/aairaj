@@ -5,8 +5,10 @@
 
 ## About Me:
 🤖 I’m passionate about building AI-driven systems that blend intelligence with real-world impact.
+
 🚀 Currently working on AI automation, machine learning and deep learning projects.
-💬 Always open to conversations about AI, automation and innovative tech ideas — I love turning complex problems into simple, smart solutions.
+
+💬 Always open to conversations about AI, automation and innovative tech ideas. I love turning complex problems into simple, smart solutions.
 
 
 ## Socials:
